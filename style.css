@@ -1,0 +1,16 @@
+html{
+background-color: brown;
+text-align: center;
+}
+h1{
+    color: darkblue;
+}
+h2{
+    color: darkslategrey;
+    font-size: xx-large;
+}
+button{
+    font-size: 20px;
+    background-color: indigo;
+    color: lavender;
+}
